@@ -17,3 +17,6 @@ Run the app using the main.py or app.exe
 If you download a video, it will come in .mp4 and will be placed in the video folder.
 
 If you download a audio, it will come in .mp3 and will be placed in the music folder.
+<br><br>
+
+<h2><b>⚠⚠‼‼ YOU NEED TO HAVE THE FOLDER "music" AND "video" ON THE SAME FOLDER AS THE EXECUTABLE OR .py ARCHIVE ⚠⚠‼‼<b><h2>
