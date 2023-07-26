@@ -1,22 +1,44 @@
-<h1><b>YOUTUBE VIDEO AND MUSIC DOWNLOADER🎶<b></h1>
+# Youtube Video and Music Downloader (TKINTER)
 
-This project is made just for studies...
+<img src="assets/readme-imgg.png" alt="Projectimage">
 
-<h2><b>By Gustavo L. Gorges<b></h2>
+> Making a Video and Music downloader to learn about TKINTER
 
-<br>
+## 💻 Pre-Requisites
 
-<h1>How to run ✔</h1>
+I tested and programed this in Linux (Ubuntu), so i don't know if it will work in other systems.
 
-To run this program you will need to install the requiremente.txt and you also need to be using Python 3.11.3, check this using py --version<br><br>
-pip install -r .\requiremente.txt
+- [✓] Linux 🐧
+- [✓] Windows 🪟
+- [Don't have one to test] Mac 🍎
 
-<br>
-Run the app using the main.py or app.exe
-<br><br>
-If you download a video, it will come in .mp4 and will be placed in the video folder.
+## 🚀 Installing Youtube Downloader
 
-If you download a audio, it will come in .mp3 and will be placed in the music folder.
-<br><br>
+To install the project do this, i recommend using a env:
 
-<h2><b>⚠⚠‼‼ YOU NEED TO HAVE THE FOLDER "music" AND "video" ON THE SAME FOLDER AS THE EXECUTABLE OR .py ARCHIVE ⚠⚠‼‼<b><h2>
+Linux:
+
+```
+python3 -m venv .env
+source .env/bin/activate
+
+pip install -r requirements.txt
+
+python3 main.py
+```
+
+if you can't run this because of tkinter try:
+
+```
+sudo apt install python3-tk
+```
+
+Windows:
+
+```
+???
+```
+
+## 😄 About me.
+
+I'm learning english, so if i spell something wrong it's part of the process, thanks.
